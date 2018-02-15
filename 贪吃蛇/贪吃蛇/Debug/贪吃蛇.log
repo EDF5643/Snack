@@ -1,0 +1,124 @@
+﻿生成启动时间为 2017/9/30 23:09:04。
+     1>项目“D:\colin\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "蛇2.c"
+         蛇2.c
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(19): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(20): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(55): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(56): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(57): error C2065: “snake”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(57): error C2059: 语法错误:“)”
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(57): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(58): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(59): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(60): warning C4047: “=”:“int”与“int *”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(62): warning C4047: “!=”:“int”与“void *”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(64): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(64): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(64): error C2198: “Pos”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(66): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(71): error C2065: “snake”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(71): error C2065: “self”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(71): warning C4552: “*”: 运算符不起任何作用；应输入带副作用的运算符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(72): error C2065: “self”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(72): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(73): error C2065: “self”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(73): warning C4047: “!=”:“int”与“void *”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(75): error C2065: “self”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(75): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(75): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(79): error C2065: “self”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(79): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(85): error C2065: “snake”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(85): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(85): warning C4552: “*”: 运算符不起任何作用；应输入带副作用的运算符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(87): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(87): error C2065: “snake”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(87): error C2059: 语法错误:“)”
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(88): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(88): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(90): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(90): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(92): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(92): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(94): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(96): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(96): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(96): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(98): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(98): warning C4022: “free”: 指针与实参 1 不匹配
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(101): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(103): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(103): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(103): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(103): error C2198: “Pos”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(104): error C2065: “food_1”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(104): warning C4047: “=”:“int *”与“int”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(109): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(109): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(117): error C2065: “snake”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(117): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(117): warning C4552: “*”: 运算符不起任何作用；应输入带副作用的运算符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(119): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(119): error C2065: “snake”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(119): error C2059: 语法错误:“)”
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(122): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(122): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(123): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(123): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(124): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(124): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(124): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(126): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(126): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(127): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(127): warning C4047: “=”:“int *”与“int”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(131): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(131): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(131): error C2198: “Pos”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(133): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(140): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(140): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(141): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(141): warning C4047: “=”:“int *”与“int”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(143): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(145): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(145): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(145): error C2198: “Pos”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(147): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(149): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(149): error C2198: “Pos”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(151): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(151): error C2198: “free”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(152): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(157): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(157): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(158): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(158): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(159): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(159): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(159): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(161): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(161): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(162): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(162): warning C4047: “=”:“int *”与“int”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(166): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(166): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(166): error C2198: “Pos”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(168): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(175): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(175): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(176): error C2065: “nexthead”: 未声明的标识符
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(176): warning C4047: “=”:“int *”与“int”的间接级别不同
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(178): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(180): error C2223: “->x”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(180): error C2223: “->y”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(180): error C2198: “Pos”: 用于调用的参数太少
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(182): error C2223: “->next”的左侧必须指向结构/联合
+     1>d:\colin\贪吃蛇\贪吃蛇\蛇2.c(182): fatal error C1003: 错误计数超过 100；正在停止编译
+     1>已完成生成项目“D:\colin\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.53
